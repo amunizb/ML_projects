@@ -4,3 +4,4 @@
 - time_series_analysis compares a gradient boosting regressor (XGBRegressor) with an **AR(1) model**
 - cointegration.ipynb designs a **pairs-trading strategy** using **cointegration**
 - stock_montecarlo.ipynb makes price predictions using a **Montecarlo Simulation for Geometric Brownian Motion** 
+- iris.ipynb fits several **classification** algorithms (including **LDA, QDA, & RandomForests**) to the Iris Data set
